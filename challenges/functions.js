@@ -59,6 +59,8 @@ consume("Mary", "Poppins", greeting);
 // Explain in your own words why `nestedfunction()` can access the variable `internal`.
 
 // Explanation:
+// Neste function is having child functions inside of a
+// function. This will allow you to pass variables to the children such as internal.
 
 
 const external = "I'm outside the function";
